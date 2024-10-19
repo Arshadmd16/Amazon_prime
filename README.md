@@ -4,7 +4,6 @@ This project is entirely my own work, reflecting my ideas and insights. I conduc
 
 # Business Insights and Revenue Impact
 
-## Key Features of the Amazon Prime Content Library:
 1. Content Distribution: By looking at what viewers like—movies or TV shows—Amazon Prime can make better decisions on what to create. This helps attract more subscribers and increase revenue.
 
 2. Rating Trends: Understanding common ratings lets Amazon know what audiences expect. Creating popular content boosts satisfaction and can lead to more subscriptions.
