@@ -1,6 +1,4 @@
-# Amazon_prime
-## About the project
-This project is entirely my own work, reflecting my ideas and insights. I conducted a thorough analysis of data collected from Kaggle, focusing on understanding viewer preferences and trends in the Amazon Prime content library. Using my analytical skills and a range of SQL concepts—from basic queries to advanced techniques—I was able to extract meaningful insights from the data. The findings aim to provide valuable information for content strategy and business growth. I have tried my best to make it interactive for the audidence to go through my project using some interesting presentation skills, Hope you enjoy it!
+![About the project This project is entirely my own work, reflecting my ideas and insights  I conducted a thorough analysis of data collected from Kaggle, focusing on understanding viewer preference](https://github.com/user-attachments/assets/52635934-7fbb-457c-8c0c-4ceff8b76c67)
 
 # Business Insights and Revenue Impact
 
